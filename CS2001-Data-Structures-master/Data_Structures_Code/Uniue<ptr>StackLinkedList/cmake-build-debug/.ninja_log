@@ -1,0 +1,8 @@
+# ninja log v5
+1	819	1696691850671862058	CMakeFiles/StackLinkedList.dir/main.cpp.o	b8b892923d56d331
+1	729	1696691850581858858	CMakeFiles/StackLinkedList.dir/StackLinkedList.cpp.o	7849aed9ce4ee056
+792	883	1696691811633808639	StackLinkedList	5b0d746717ff9711
+1	870	1696692279949598735	CMakeFiles/StackLinkedList.dir/main.cpp.o	b8b892923d56d331
+870	965	1696692280039595822	StackLinkedList	1169a4bd6db1f7f4
+1	868	1696692361767267196	CMakeFiles/StackLinkedList.dir/main.cpp.o	b8b892923d56d331
+868	965	1696692361860598210	StackLinkedList	1169a4bd6db1f7f4

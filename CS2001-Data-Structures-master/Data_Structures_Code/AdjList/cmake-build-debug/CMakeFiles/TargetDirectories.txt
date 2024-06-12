@@ -1,0 +1,3 @@
+/home/rohtanza/Desktop/AdjList/cmake-build-debug/CMakeFiles/AdjList.dir
+/home/rohtanza/Desktop/AdjList/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rohtanza/Desktop/AdjList/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/rohtanza/Desktop/AdjMatrix/cmake-build-debug/CMakeFiles/AdjMatrix.dir
+/home/rohtanza/Desktop/AdjMatrix/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rohtanza/Desktop/AdjMatrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,33 @@
+int Least_small_val(int A[], int size)
+{
+    int min = A[0];
+    int MinNum_index = 0;
+    for (int i = 0; i < size; i++)
+    {
+        if (A[i] < min)
+        {
+            min = A[i];
+            MinNum_index = i;
+        }
+    }
+    int Second_min;
+    if (MinNum_index != 0)
+    {
+        Second_min = A[0];
+    }
+    else
+    {
+        Second_min = A[1];
+    }
+    for (int i = 0; i < size; i++)
+    {
+        if (i != MinNum_index)
+        {
+            if (A[i] < Second_min)
+            {
+                Second_min = A[i];
+            }
+        }
+    }
+    return Second_min;
+}
