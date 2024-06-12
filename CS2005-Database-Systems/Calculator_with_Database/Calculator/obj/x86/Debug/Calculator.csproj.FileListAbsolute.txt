@@ -1,0 +1,220 @@
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/Calculator.exe
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/Calculator.pdb
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Runtime.InteropServices.RuntimeInformation.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Security.Cryptography.Algorithms.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.ValueTuple.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/Microsoft.Win32.Primitives.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/netstandard.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.AppContext.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Collections.Concurrent.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Collections.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Collections.NonGeneric.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Collections.Specialized.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.ComponentModel.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.ComponentModel.EventBasedAsync.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.ComponentModel.Primitives.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.ComponentModel.TypeConverter.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Console.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Data.Common.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Diagnostics.Contracts.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Diagnostics.Debug.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Diagnostics.FileVersionInfo.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Diagnostics.Process.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Diagnostics.StackTrace.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Diagnostics.TextWriterTraceListener.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Diagnostics.Tools.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Diagnostics.TraceSource.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Diagnostics.Tracing.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Drawing.Primitives.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Dynamic.Runtime.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Globalization.Calendars.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Globalization.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Globalization.Extensions.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.IO.Compression.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.IO.Compression.ZipFile.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.IO.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.IO.FileSystem.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.IO.FileSystem.DriveInfo.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.IO.FileSystem.Primitives.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.IO.FileSystem.Watcher.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.IO.IsolatedStorage.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.IO.MemoryMappedFiles.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.IO.Pipes.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.IO.UnmanagedMemoryStream.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Linq.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Linq.Expressions.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Linq.Parallel.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Linq.Queryable.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Net.Http.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Net.NameResolution.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Net.NetworkInformation.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Net.Ping.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Net.Primitives.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Net.Requests.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Net.Security.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Net.Sockets.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Net.WebHeaderCollection.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Net.WebSockets.Client.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Net.WebSockets.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.ObjectModel.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Reflection.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Reflection.Extensions.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Reflection.Primitives.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Resources.Reader.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Resources.ResourceManager.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Resources.Writer.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Runtime.CompilerServices.VisualC.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Runtime.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Runtime.Extensions.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Runtime.Handles.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Runtime.InteropServices.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Runtime.Numerics.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Runtime.Serialization.Formatters.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Runtime.Serialization.Json.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Runtime.Serialization.Primitives.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Runtime.Serialization.Xml.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Security.Claims.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Security.Cryptography.Csp.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Security.Cryptography.Encoding.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Security.Cryptography.Primitives.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Security.Cryptography.X509Certificates.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Security.Principal.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Security.SecureString.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Text.Encoding.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Text.Encoding.Extensions.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Text.RegularExpressions.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Threading.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Threading.Overlapped.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Threading.Tasks.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Threading.Tasks.Parallel.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Threading.Thread.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Threading.ThreadPool.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Threading.Timer.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Xml.ReaderWriter.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Xml.XDocument.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Xml.XmlDocument.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Xml.XmlSerializer.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Xml.XPath.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/System.Xml.XPath.XDocument.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/AtkSharp.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/CairoSharp.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/GdkSharp.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/GioSharp.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/GLibSharp.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/GtkSharp.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/bin/Debug/PangoSharp.dll
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/obj/x86/Debug/Calculator.csproj.CoreCompileInputs.cache
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/obj/x86/Debug/Calculator.csproj.CopyComplete
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/obj/x86/Debug/Calculator.exe
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/obj/x86/Debug/Calculator.pdb
+/media/khizar-ali/AA0066EF0066C1C5/FAST/4th SEMESTER/DATABASE_LAB/Assignment/Calculator/Calculator/Calculator/obj/x86/Debug/Calculator.csproj.AssemblyReference.cache
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/obj/x86/Debug/Calculator.exe
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/obj/x86/Debug/Calculator.pdb
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/Calculator.exe
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/Calculator.pdb
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Runtime.InteropServices.RuntimeInformation.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Security.Cryptography.Algorithms.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.ValueTuple.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/Microsoft.Win32.Primitives.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/netstandard.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.AppContext.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Collections.Concurrent.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Collections.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Collections.NonGeneric.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Collections.Specialized.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.ComponentModel.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.ComponentModel.EventBasedAsync.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.ComponentModel.Primitives.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.ComponentModel.TypeConverter.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Console.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Data.Common.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Diagnostics.Contracts.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Diagnostics.Debug.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Diagnostics.FileVersionInfo.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Diagnostics.Process.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Diagnostics.StackTrace.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Diagnostics.TextWriterTraceListener.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Diagnostics.Tools.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Diagnostics.TraceSource.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Diagnostics.Tracing.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Drawing.Primitives.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Dynamic.Runtime.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Globalization.Calendars.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Globalization.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Globalization.Extensions.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.IO.Compression.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.IO.Compression.ZipFile.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.IO.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.IO.FileSystem.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.IO.FileSystem.DriveInfo.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.IO.FileSystem.Primitives.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.IO.FileSystem.Watcher.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.IO.IsolatedStorage.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.IO.MemoryMappedFiles.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.IO.Pipes.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.IO.UnmanagedMemoryStream.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Linq.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Linq.Expressions.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Linq.Parallel.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Linq.Queryable.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Net.Http.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Net.NameResolution.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Net.NetworkInformation.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Net.Ping.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Net.Primitives.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Net.Requests.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Net.Security.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Net.Sockets.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Net.WebHeaderCollection.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Net.WebSockets.Client.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Net.WebSockets.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.ObjectModel.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Reflection.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Reflection.Extensions.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Reflection.Primitives.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Resources.Reader.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Resources.ResourceManager.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Resources.Writer.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Runtime.CompilerServices.VisualC.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Runtime.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Runtime.Extensions.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Runtime.Handles.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Runtime.InteropServices.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Runtime.Numerics.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Runtime.Serialization.Formatters.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Runtime.Serialization.Json.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Runtime.Serialization.Primitives.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Runtime.Serialization.Xml.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Security.Claims.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Security.Cryptography.Csp.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Security.Cryptography.Encoding.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Security.Cryptography.Primitives.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Security.Cryptography.X509Certificates.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Security.Principal.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Security.SecureString.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Text.Encoding.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Text.Encoding.Extensions.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Text.RegularExpressions.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Threading.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Threading.Overlapped.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Threading.Tasks.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Threading.Tasks.Parallel.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Threading.Thread.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Threading.ThreadPool.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Threading.Timer.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Xml.ReaderWriter.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Xml.XDocument.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Xml.XmlDocument.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Xml.XmlSerializer.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Xml.XPath.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/System.Xml.XPath.XDocument.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/AtkSharp.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/CairoSharp.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/GdkSharp.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/GioSharp.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/GLibSharp.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/GtkSharp.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/bin/Debug/PangoSharp.dll
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/obj/x86/Debug/Calculator.csproj.AssemblyReference.cache
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/obj/x86/Debug/Calculator.csproj.CoreCompileInputs.cache
+/home/rohtanza/Desktop/DB/Calculator_with_Database/Calculator/obj/x86/Debug/Calculator.csproj.CopyComplete

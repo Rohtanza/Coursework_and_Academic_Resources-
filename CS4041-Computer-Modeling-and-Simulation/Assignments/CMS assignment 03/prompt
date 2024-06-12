@@ -1,0 +1,12 @@
+I am giving you two py files, these models are implemented through Eular method. now implement the RK-2 and RK-4 method for the sharkCompetition.py and PredatorPrey.py models by changing the code in predatorPrey.py and sharkCompetition.py. As i told you those files have code for implementation of Euler method. First call the RK-2 implementation and then RK-4 implementation. The Code should also measure the time taken to execute both methods and compare them with the time taken by Euler method, RK-2 and RK-4 Method.
+
+give me code in chuck, 3 chunks, first generate first half, then second half and then third one, and ask me after every chuck that should you continue
+
+So the code will be a driver program, first call euler method, and calulate time and then do this for Rk-2 and RK-4
+these things will be three functions.
+
+Convert the variable names into the snake case. and write the code humanize way
+
+Write the logic of rk2 and rk4 as per these algorithums, i need time to exucation of the which method, i want to compare which method take how much time, like eular and the rk2 and rk4 each time, and plot the graph for each method simulation
+
+just give me the code, cut the explanation

@@ -1,0 +1,75 @@
+\documentclass{article}
+\usepackage{geometry}
+\geometry{margin=.8in}
+
+\title{Poker Hands Comparison}
+\author{Question 03}
+\date{}
+
+\begin{document}
+
+\maketitle
+\thispagestyle{empty} % Remove page number from this page
+
+\section*{Story}
+In a high-stakes poker tournament, two players are competing for the grand prize. To determine the winner, their poker hands must be compared according to standard poker rules. Each hand consists of five cards, and the hands can be ranked in a specific order, from the highest (Royal Flush) to the lowest (High Card). 
+
+The referee needs your help to decide which player wins the most games, given a series of poker hands for both players. Your task is to create a C program that compares poker hands and determines which player has the winning hand.
+
+\section*{Problem Statement}
+Given a list of poker hands for two players, each with five cards, your task is to determine which player wins more hands. The poker hands should be evaluated according to standard poker rules. The program must compare the hands to identify the winner. 
+
+Write a C program that compares poker hands and outputs the player with the winning hand.
+
+\section*{Input}
+A list of poker hands, where each line contains 10 cards separated by a space. The first five cards represent Player 1's hand, and the next five cards represent Player 2's hand.
+
+\section*{Output}
+The player with the winning hand for each set of poker hands. If the hands are equal, output "It's a tie."
+
+\section*{Hints}
+\begin{itemize}
+    \item Consider evaluating poker hands according to the standard hand rankings: Royal Flush, Straight Flush, Four of a Kind, Full House, Flush, Straight, Three of a Kind, Two Pairs, One Pair, and High Card.
+    \item Implement a function to parse the input and convert it into card ranks and suits.
+    \item Use loops to compare hands and determine the winner.
+    \item Keep track of which player wins more hands.
+\end{itemize}
+
+\section*{Example Scenario}
+Consider the following five hands dealt to two players:
+
+\begin{table}[h]
+    \centering
+    \begin{tabular}{|c|c|c|c|}
+    \hline
+    \textbf{Hand} & \textbf{Player 1} & \textbf{Player 2} & \textbf{Winner} \\ \hline
+    1 & 5H 5C 6S 7S KD & 2C 3S 8S 8D TD & Player 2 \\ \hline
+    2 & 5D 8C 9S JS AC & 2C 5C 7D 8S QH &  Player 1\\ \hline
+    3 & 2D 9C AS AH AC & 3D 6D 7D TD QD &  Player 2 \\ \hline
+    4 & 4D 6S 9H QH QC & 3D 6D 7H QD QS & Player 1 \\ \hline
+    5 & 2H 2D 4C 4D 4S & 3C 3D 3S 9S 9D & Player 1 \\ \hline
+    \end{tabular}
+    \caption{Poker Hands Comparison}
+\end{table}
+
+\section*{Tasks}
+1. \textbf{Parse Poker Hands}: Implement a function to parse a line of input into two separate poker hands.\\
+2. \textbf{Evaluate Poker Hands}: Create a function to evaluate the rank of each poker hand.\\
+3. \textbf{Compare Poker Hands}: Implement a function to compare two poker hands and determine the winner.\\
+4. \textbf{Main Program}: Create a program that reads a list of poker hands and outputs which player wins more games.
+
+\section*{Deliverables}
+\begin{itemize}
+    \item The source code of your C program, with comments explaining the logic and key sections.
+    \item A brief explanation of the approach taken to solve the problem.
+    \item Test cases demonstrating the correctness of your program with different sets of poker hands.
+\end{itemize}
+
+\section*{Submission Guidelines}
+\begin{itemize}
+    \item Submit your code as a single C source file with appropriate comments.
+    \item Provide a brief explanation of your approach and test cases demonstrating its correctness.
+    \item Ensure your solution correctly compares poker hands and outputs the winner.
+\end{itemize}
+
+\end{document}

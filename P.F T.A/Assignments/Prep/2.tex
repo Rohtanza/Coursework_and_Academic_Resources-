@@ -1,0 +1,65 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=0.8in}
+
+\title{The Longest Collatz Sequence}
+\author{Question 02}
+\date{}
+
+\begin{document}
+
+\thispagestyle{empty} % Remove page number from this page
+
+\maketitle
+
+\section*{Story}
+The Collatz Conjecture, also known as the "3n + 1" problem, is a famous unsolved problem in mathematics. The conjecture involves a sequence of numbers generated from a starting point following these rules:
+
+\begin{enumerate}
+    \item If the number is even, divide it by 2.
+    \item If the number is odd, multiply it by 3 and add 1.
+  \end{enumerate}
+
+
+This process repeats until the number becomes 1. The Collatz Conjecture suggests that this process will always reach 1, regardless of the starting number. As a mathematician, you have been tasked with exploring the Collatz sequences to find the starting number under a given limit that produces the longest sequence.
+
+\section*{Problem Statement}
+Given a limit \(N\), your task is to find the starting number under \(N\) that produces the longest Collatz sequence. You must determine the length of each Collatz sequence and identify the starting number with the longest length. Write a C program that calculates the length of Collatz sequences for all starting numbers under \(N\) and returns the number with the longest sequence.
+
+\section*{Input}
+\begin{itemize}
+    \item A single integer \(N > 1\), representing the upper limit for the starting numbers.
+  \end{itemize}
+
+\section*{Output}
+
+\begin{itemize}
+    \item The starting number under \(N\) that produces the longest Collatz sequence.
+    \item The length of the longest Collatz sequence.
+  \end{itemize}
+
+
+
+\section*{Hints}
+\begin{itemize}
+\item Consider implementing a function that calculates the Collatz sequence length for a given starting number.
+\item Keep track of the lengths to identify the longest sequence.
+\item Use a loop to iterate through all starting numbers under \(N\).
+\end{itemize}
+
+\section*{Example Scenario}
+Given a limit of 10, the longest Collatz sequence is produced by the starting number 9, with a length of 20.
+
+\section*{Tasks}
+1. \textbf{Collatz Sequence Function}: Write a function that calculates the Collatz sequence length for a given starting number.\\
+2. \textbf{Longest Collatz Sequence}: Implement a function that finds the starting number under \(N\) with the longest Collatz sequence.\\
+3. \textbf{Main Program}: Create a program that takes an upper limit \(N\) and outputs the starting number with the longest Collatz sequence and its length.
+
+\section*{Deliverables}
+\begin{itemize}
+    \item The source code of your program, with comments explaining the logic and key sections.
+    \item A brief explanation of the approach taken to solve the problem.
+\end{itemize}
+
+\end{document}

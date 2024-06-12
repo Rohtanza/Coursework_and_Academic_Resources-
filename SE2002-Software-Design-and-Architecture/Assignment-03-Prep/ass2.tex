@@ -1,0 +1,62 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry} % For page size and margins
+\usepackage{graphicx} % For including images
+%\usepackage{svg}      % For direct SVG inclusion (commented out)
+
+\geometry{a4paper, margin=0.8in}
+
+\title{Hospital Management System: Design Documentation}
+\author{Muhammad Rehan}
+\date{Assignment 03}
+
+\begin{document}
+
+\maketitle
+
+\section*{Assignment Abstract}
+In this assignment of the project, I am advancing the Hospital Management System by defining and finalizing the design model, which is a crucial step before writing the actual code. This process involves identifying relevant classes and objects based on previously gathered requirements and user stories, and establishing associations between them. The output will be a comprehensive class diagram that includes all attributes, functions, and associations, along with sequence diagrams that tell the interactions and workflows between objects. This assignment aims to ensure that our design is fully aligned with the analysis models developed in assignment one, resulting in preparing a robust foundation for the coding phase.
+
+\section*{Identification of Classes and Objects}
+\subsection*{Overview}
+To establish the foundation of our design model, we begin by identifying potential classes and objects from the case study. These classes represent the primary entities of our system, each encapsulating essential data and behaviors relevant to the operations of the hospital management system.
+
+\subsection*{Classes and Objects}
+Below is a detailed list of identified classes along with a brief description of their roles within the system, reflecting the implementation details in the class diagram:
+
+\begin{itemize}
+  \item \textbf{Person (Abstract)}: A base class for all individuals involved in the system, providing common attributes like name, address, and phone, and a method to update profiles.
+  \item \textbf{Patient}: Inherits from Person; represents individuals receiving care, capable of registering, logging in, and managing appointments. They hold unique identifiers and personal information.
+  \item \textbf{Employee (Abstract)}: Inherits from Person; a base class for all employees, including doctors, nurses, and administrative staff, incorporating common employee attributes such as employeeID.
+  \item \textbf{Doctor}: Inherits from Employee; healthcare providers who diagnose, treat, and manage patient care, capable of prescribing medications.
+  \item \textbf{Nurse}: Inherits from Employee; responsible for patient assessments and supporting doctors in preliminary care.
+  \item \textbf{Admin Staff}: Inherits from Employee; includes roles such as Receptionists who manage operational and administrative tasks.
+  \item \textbf{Appointment}: A scheduled medical or administrative service provided to a patient, implementing the Billable interface for charging purposes.
+  \item \textbf{Medical Record}: Compositionally linked to Patients; contains comprehensive data about patient diagnoses, treatments, and health history.
+  \item \textbf{Prescription}: Issued by doctors, detailing medications for patients.
+  \item \textbf{Bill}: Implements the Billable interface; financial documentation for services provided, linked to patients and payments.
+  \item \textbf{LabTest}: Implements the Billable interface; represents tests ordered by doctors, including costs and results processing.
+  \item \textbf{Pharmacy}: Manages and dispenses prescribed medications, maintaining stock and medication details.
+\end{itemize}
+
+\section*{Identification of Associations}
+\subsection*{Overview}
+With the classes clearly defined, we now proceed to delineate the relationships and interactions among them. These associations are pivotal for understanding how objects coexist and collaborate within the system.
+
+\subsection*{Associations}
+\begin{itemize}
+  \item \textbf{Patient to Doctor}: Many-to-many relationship facilitated through Appointments, indicating that patients can consult multiple doctors and vice versa.
+  \item \textbf{Doctor to Prescription}: One-to-many relationship, where a doctor can issue multiple prescriptions to various patients.
+  \item \textbf{Patient to Medical Record}: One-to-one relationship, signifying that each patient has a unique medical record.
+  \item \textbf{Appointment to Receptionist}: Many-to-one relationship, where multiple appointments are managed by a receptionist, reflecting their role in scheduling and administrative tasks.
+  \item \textbf{LabTest to Doctor and Patient}: Many-to-many relationship, where multiple lab tests can be ordered by various doctors for different patients, showing the interconnectivity between diagnostic procedures and patient care.
+\end{itemize}
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.8\textwidth]{1.png} % PNG inclusion
+  \caption{Class Diagram}
+  \label{fig:diagram1}
+\end{figure}
+
+\end{document}

@@ -1,0 +1,95 @@
+% Preamble
+\documentclass[12pt]{article} % Sets the document class and font size
+
+% Packages
+\usepackage[utf8]{inputenc} % Input encoding
+\usepackage[T1]{fontenc} % Output encoding
+\usepackage{geometry} % Page layout
+\usepackage{graphicx} % Include images
+\usepackage{hyperref} % Interactive links and URLs
+
+\geometry{
+  a4paper, % Paper size
+  margin=1in, % Margin size
+}
+
+\title{Software Design \& Architecture\\ Assignment 01}
+\author{Muhammad Rehan | 22P-9106}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{quote}
+ In this assignment, I will approach requirement elicitation and analysis using the agile methodology, focusing on user-centric design. We will develop a Use Case Diagram to detail user-system interactions and a Sequence Diagram to show operational flows. Requirements will be expressed as concise user stories, aligning with agile principles.
+  \end{quote}
+  
+
+    \section*{User Stories}
+
+    As I only have the document provieded in the assignment , our requirement elicitation will focus on identifying stakeholders from the document, such as patients and healthcare staff. We'll conduct a detailed analysis of this documentation to extract system requirements, translating them into user stories.
+    
+    \begin{enumerate}
+      \item {\small \textbf{Patient Registration and Login}}
+      \begin{itemize}
+        \item {\footnotesize As a new patient, I want to register to access medical records and services.}
+        \item {\footnotesize As a returning patient, I want to log in to manage my health-related activities.}
+      \end{itemize}
+    
+      \item {\small \textbf{Appointment Management}}
+      \begin{itemize}
+        \item {\footnotesize As a patient, I want to book and manage appointments for efficient healthcare access.}
+        \item {\footnotesize As a receptionist, I need to manage appointments to support patient needs.}
+      \end{itemize}
+    
+      \item {\small \textbf{Medical Consultation}}
+      \begin{itemize}
+        \item {\footnotesize As a nurse, I aim to conduct pre-assessments to inform doctors' diagnoses.}
+        \item {\footnotesize As a doctor, I require access to patient histories and tools to provide care.}
+      \end{itemize}
+    
+      \item {\small \textbf{Laboratory and Test Management}}
+      \begin{itemize}
+        \item {\footnotesize As a lab assistant, I need to process tests and report results for accurate diagnoses.}
+        \item {\footnotesize As a doctor, I want to request and review tests to guide patient treatment.}
+      \end{itemize}
+    
+      \item {\small \textbf{Pharmacy Interaction}}
+      \begin{itemize}
+        \item {\footnotesize As a pharmacist, I must prepare and detail medications for patient safety.}
+        \item {\footnotesize As a patient, I want to access prescription details to manage my medication.}
+      \end{itemize}
+    
+      \item {\small \textbf{Billing and Payment}}
+      \begin{itemize}
+        \item {\footnotesize As a cashier, I need to handle billing and payments to ensure financial operations.}
+        \item {\footnotesize As a patient, I want to view and settle bills to complete my healthcare experience.}
+      \end{itemize}
+    \end{enumerate}
+
+\section*{Use Case Diagram}
+I made a Use Case Diagram to give us a clearer picture of how users interact with the system. It's a handy diagram that helps us ensure we're all on the same page about what the system needs to do, making our agile journey smoother and more focused on delivering value to users.
+
+\begin{figure}[ht]
+  \centering
+  \includegraphics[width=\linewidth]{UCDD.png}
+  \caption{Hospital Management System Use Case Diagram}
+  \label{fig:ust}
+  \end{figure}
+
+  \section*{Sequence Diagram}
+  I opted for a Sequence Diagram over Activity Diagram because it lets us zoom in on how different parts of the system and people interact over time.
+
+
+  \begin{figure}[ht]
+    \centering
+    \includegraphics[width=\linewidth]{Sdt.png}
+    \caption{Hospital Management System Sequence Diagram}
+    \label{fig:ust}
+    \end{figure}
+    
+  
+
+% Document ends
+\end{document}
